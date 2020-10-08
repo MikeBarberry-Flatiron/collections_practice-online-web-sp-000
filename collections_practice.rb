@@ -21,5 +21,5 @@ end
 
 def kesha_maker(array)
   array.each_with_index do |ele, index|
-    ele[2] = "$""
+    ele[2] = "$"
 end
