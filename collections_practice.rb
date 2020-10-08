@@ -22,7 +22,7 @@ end
 def kesha_maker(array)
   array.each_with_index do |ele, index|
     ele[2] = "$"
-  end 
+  end
 end
 
 def find_a(array)
