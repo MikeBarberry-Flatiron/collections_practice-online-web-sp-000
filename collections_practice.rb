@@ -28,4 +28,5 @@ end
 def find_a(array)
   array.find do |word|
     word[0] == "a"
+  end
 end
