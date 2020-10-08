@@ -24,3 +24,7 @@ def kesha_maker(array)
     ele[2] = "$"
   end 
 end
+
+def find_a(array)
+  array.start_with?("a")
+end
